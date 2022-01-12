@@ -172,3 +172,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+'''
+Part Two:
+How did you use a version control system to develop the programs? 
+
+I use Github to manage version control. I rarely go on Github as I am the only person using the file
+and am using only one device to edit the file. If I were to use other devices I would probably
+use github desktop and manage the most current file by opening the reposiory on visual code and then
+commiting when done. In reality though I rarely push changes until I am done testing. Otherwise I 
+end up with 50 changes of something small like a spelling error fix. So I try and minimize amounts of
+commits and pushes.
+'''
