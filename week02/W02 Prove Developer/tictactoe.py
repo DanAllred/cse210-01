@@ -32,7 +32,7 @@ if playgame.lower() == 'love to. how about global thermonuclear war?':
         print('')
         print("FINE.")
         print_pause3('')
-        print("Just kidding, lets play Tic-Tac-To:")
+        print("Just kidding, lets play Tic-Tac-Toe")
         print_pause2('')
 elif playgame.lower() in('n', 'no'):
     sys.exit()
